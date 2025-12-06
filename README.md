@@ -61,3 +61,4 @@ To quickly execute the pipeline and demonstrate its functionality, you can use t
 git clone https://github.com/RushabhK3/Wine-Price-Prediction-Pipeline.git 
 cd Wine-Price-Prediction-Pipeline
 pip install -r requirements.txt
+python Wine_cli.py wines_SPA.csv
